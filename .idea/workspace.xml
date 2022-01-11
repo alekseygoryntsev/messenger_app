@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9d9af38-49a5-4866-b8e0-5c9e197cdb04" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="212" column="73" selection-start-line="212" selection-start-column="73" selection-end-line="212" selection-end-column="73" />
+              <folding>
+                <element signature="e#46#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/add_contact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="55" selection-start-line="55" selection-end-line="56" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="132" column="54" selection-start-line="132" selection-start-column="54" selection-end-line="132" selection-end-column="54" />
+              <folding>
+                <element signature="e#47#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>proces</find>
+      <find>client</find>
+      <find>exit</find>
+      <find>stat</find>
+      <find>hist</find>
+      <find>curr</find>
+      <find>tra</find>
+      <find>transp</find>
+      <find>conne</find>
+      <find>timeou</find>
+      <find>time</find>
+      <find>sleep</find>
+      <find>run</find>
+      <find>sett</find>
+      <find>userl</find>
+      <find>trans</find>
+      <find>curre</find>
+      <find>save</find>
+      <find>out</find>
+      <find>in</find>
+      <find>whi</find>
+      <find>mess</find>
+      <find>his</find>
+      <find>new</find>
+      <find>make</find>
+      <find>обновить</find>
+      <find>спис</find>
+      <find>список</find>
+      <find>label</find>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_8_stream/Коды/Коды/02_proc_simple.py" />
+        <option value="$PROJECT_DIR$/new.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_8_stream/Домашнее задание/Домашнее задание/client.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_8_stream/Домашнее задание/Домашнее задание/server.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/Коды/Коды/subprocess/3.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/Коды/Коды/subprocess/2.py" />
+        <option value="$PROJECT_DIR$/log/decorators.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_8_stream/мое дз/Lession_8_Goryntsev/log/decorators.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_8_stream/мое дз/Lession_8_Goryntsev/client.py" />
+        <option value="$PROJECT_DIR$/test_2.py" />
+        <option value="$PROJECT_DIR$/test_3.py" />
+        <option value="$PROJECT_DIR$/test_4.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_2_descriptors/Коды к методичке/easy/5.py" />
+        <option value="$PROJECT_DIR$/test_5.py" />
+        <option value="$PROJECT_DIR$/checkport.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_2_descriptors/Мое ДЗ/messenger_app/highload.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_2_descriptors/ДЗ/Пример ДЗ/client.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_2_descriptors/ДЗ/Пример ДЗ/launcher.py" />
+        <option value="$PROJECT_DIR$/meta.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Коды к методичке/1.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Коды к методичке/2.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Коды к методичке 4/Коды к методичке 4/windows.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Коды к методичке 4/Коды к методичке 4/advanced.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/server_database.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/client.py" />
+        <option value="$PROJECT_DIR$/img/loader.py" />
+        <option value="$PROJECT_DIR$/еуые_2.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/server_gui.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/descriptors.py" />
+        <option value="$PROJECT_DIR$/highload.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Коды к методичке/1.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Коды к методичке/3/main.py" />
+        <option value="$PROJECT_DIR$/functions/config.py" />
+        <option value="$PROJECT_DIR$/transport2.py" />
+        <option value="$PROJECT_DIR$/server_interface.py" />
+        <option value="$PROJECT_DIR$/functions/add_contact.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Мое ДЗ/messenger_app/client.py" />
+        <option value="$PROJECT_DIR$/add_contact.py" />
+        <option value="$PROJECT_DIR$/server_db.py" />
+        <option value="$PROJECT_DIR$/test_transport.py" />
+        <option value="$PROJECT_DIR$/client_interface.py" />
+        <option value="$PROJECT_DIR$/transport.py" />
+        <option value="$PROJECT_DIR$/functions/message.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/transport.py" />
+        <option value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/del_contact.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/client_db.py" />
+        <option value="$PROJECT_DIR$/client.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1351" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="messenger_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="messenger_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="messenger_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="messenger_app" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\messenger_app" />
+      <recent name="C:\Users\1\PycharmProjects\messenger_app\functions" />
+      <recent name="C:\Users\1\PycharmProjects\messenger_app\img" />
+      <recent name="C:\Users\1\PycharmProjects\messenger_app\clientsdb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\messenger_app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.highload">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="messenger_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="highload" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="messenger_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/highload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="launcher" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="messenger_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/launcher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="messenger_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transport" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="messenger_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.highload" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.transport" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.launcher" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.highload" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.launcher" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.transport" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9d9af38-49a5-4866-b8e0-5c9e197cdb04" name="Default Changelist" comment="" />
+      <created>1558955367500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558955367500</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_functions_py - 2019.05.29 at 01h 44m 59s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.05.29 at 01h 45m 16s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.06.02 at 18h 43m 44s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.06.02 at 18h 44m 32s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.06.02 at 18h 46m 26s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.06.02 at 18h 47m 30s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.06.02 at 18h 49m 38s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.06.02 at 18h 52m 48s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_functions_py - 2019.06.02 at 18h 56m 23s.xml">
+      <configuration name="Unittests in test_functions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_functions_TestSendPresence - 2019.06.02 at 19h 25m 39s.xml">
+      <configuration name="Unittests for test_functions.TestSendPresence" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23206443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49707174" visible="true" weight="0.2985782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4028436" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.328594" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50292826" side_tool="true" weight="0.27804106" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_3_Network/Пример первого этапа проекта/client.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_6_decoration/Домашнее задание/Домашнее задание/server.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_7_select/Домашнее задание/start.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_8_stream/Коды/Коды/02_proc_subclass.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/3 Этап_client server app/lession_8_stream/Домашнее задание/Домашнее задание/client.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Пример ДЗ/Пример ДЗ/Пример ДЗ/server.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Пример ДЗ/Пример ДЗ/Пример ДЗ/server.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Пример ДЗ/Пример ДЗ/Пример ДЗ/server.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Пример ДЗ/Пример ДЗ/Пример ДЗ/server.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Пример ДЗ/Пример ДЗ/Пример ДЗ/server.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_3_ORM SQLAlchemy/Пример ДЗ/Пример ДЗ/Пример ДЗ/server.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/client.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_2_descriptors/Коды к методичке/easy/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/5 Этап_moreQT/Пример ДЗ/Пример ДЗ/server_database.py" />
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/launcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/server_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+          <folding>
+            <element signature="e#0#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/text.txt" />
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/server_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="144" selection-start-line="144" selection-end-line="147" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="266" column="44" selection-start-line="266" selection-start-column="44" selection-end-line="266" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Коды к методичке/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Коды к методичке/3/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="34" column="21" lean-forward="true" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Коды к методичке/3/progress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Коды к методичке/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Коды к методичке/4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/server_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="87" selection-start-line="87" selection-end-line="95" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transport2.py" />
+    <entry file="file://$PROJECT_DIR$/client_old.py" />
+    <entry file="file://$PROJECT_DIR$/descriptors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/start_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+          <folding>
+            <marker date="1561664540948" expanded="true" signature="3657:3939" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#44#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Мое ДЗ/messenger_app/highload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/transport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/common/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_contact.py" />
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/common/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_interface.py" />
+    <entry file="file://$PROJECT_DIR$/transport.py" />
+    <entry file="file://$PROJECT_DIR$/server_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="173" column="19" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/launcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/del_contact.py" />
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/main_window_conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/main_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="221" column="34" selection-start-line="221" selection-start-column="34" selection-end-line="221" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/del_contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#98#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Пример ДЗ/Пример ДЗ/client_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2890">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="104" column="63" selection-start-line="104" selection-start-column="63" selection-end-line="104" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/transport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="164" column="32" selection-start-line="164" selection-start-column="32" selection-end-line="164" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="211" column="78" selection-start-line="211" selection-start-column="12" selection-end-line="211" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Мое ДЗ/messenger_app/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="106" column="67" selection-start-line="101" selection-start-column="12" selection-end-line="106" selection-end-column="67" />
+          <folding>
+            <element signature="e#47#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_4_save_db_and_start_qt/Мое ДЗ/messenger_app/client_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="132" column="54" selection-start-line="132" selection-start-column="54" selection-end-line="132" selection-end-column="54" />
+          <folding>
+            <element signature="e#47#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Обучение/4 этап_БД +PyQT/lession_5_moreQT/Пример ДЗ/Пример ДЗ/client/add_contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" selection-start-line="55" selection-end-line="56" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="212" column="73" selection-start-line="212" selection-start-column="73" selection-end-line="212" selection-end-column="73" />
+          <folding>
+            <element signature="e#46#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
